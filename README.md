@@ -11,7 +11,7 @@ MD5: 8b690d6134fcfa6e742f190e6d607f46
 
 VxKex is a set of API extensions for Windows 7 that allow some Windows 8, 8.1 and 10-exclusive applications to run on Windows 7.
 
-To download and install, see the [releases page]().
+To download and install, see the [releases page](https://github.com/legacywin7/Vxkex-/releases/tag/Version1.1.1.1375).
 
 After installation, usage is easy: just right click on a program (.exe or .msi), open the Properties dialog, and select the VxKex tab. Then, check the check box which says "Enable VxKex for this program", and try to run the program.
 ![example-screenshot](https://github.com/user-attachments/assets/b9a89617-909d-4b4e-9234-c4404ac4c4dc)
