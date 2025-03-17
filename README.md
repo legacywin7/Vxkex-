@@ -3,6 +3,12 @@ Introduction
 Warning
 
 Vxkex is a backup.
+Hashes
+
+For release 1.1.1.1375:
+
+    SHA256: 652f6d2901c86de4a05743b5f808fafb6e28b9720c39bce5e7e031d26cac9035
+    MD5: 8b690d6134fcfa6e742f190e6d607f46
 
 VxKex is a set of API extensions for Windows 7 that allow some Windows 8, 8.1 and 10-exclusive applications to run on Windows 7.
 
