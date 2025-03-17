@@ -32,7 +32,7 @@ Q: What applications are supported?
 
 A: The list of compatible applications includes, but is not limited to:
 
-  [  Bespoke Synth
+   Bespoke Synth
     Blender
     Blockbench
     Calibre
