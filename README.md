@@ -100,4 +100,4 @@ Donations
 
 If you would like to support development, consider making a donation.
 
-    https://paypal.me/vxiiduu
+       https://paypal.me/vxiiduu
