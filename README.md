@@ -3,6 +3,7 @@ Introduction
 Warning
 
 Vxkex is a backup.
+
 Hashes
 For release 1.1.1.1375:      
 SHA256: 652f6d2901c86de4a05743b5f808fafb6e28b9720c39bce5e7e031d26cac9035     
@@ -31,7 +32,7 @@ Q: What applications are supported?
 
 A: The list of compatible applications includes, but is not limited to:
 
-    Bespoke Synth
+  [  Bespoke Synth
     Blender
     Blockbench
     Calibre
@@ -68,7 +69,7 @@ A: The list of compatible applications includes, but is not limited to:
     WinDbg (classic from Windows 11 SDK, and preview)
     Yuzu (gameplay was not tested)
     Zig
-
+](https://github.com/amber-studios/vistex)
 See the Application Compatibility List.docx file, which is installed together with VxKex, for more information.
 
 The majority of Qt6 applications will work, and many Electron applications will work as well.
